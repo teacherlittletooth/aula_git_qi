@@ -1,0 +1,11 @@
+//Ignorando individualmente
+logo_git2.jpg
+logo_git3.jpg
+
+//Ignorar por extensão
+*.png
+
+//Ignorar diretórios (pastas)
+node_modules/
+vendor/
+docs/
