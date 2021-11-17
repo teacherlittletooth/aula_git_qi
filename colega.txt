@@ -1,0 +1,1 @@
+Arquivo de texto para exemploficar o comando git pull.
